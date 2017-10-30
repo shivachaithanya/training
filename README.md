@@ -1,0 +1,2 @@
+# training
+trainig period
